@@ -1,0 +1,22 @@
+{
+  "name": "install_mongodb",
+  "version": "1.0.0",
+  "description": "mongodb nodejs project for add , delete , update documents",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzaki/mongodb.git"
+  },
+  "author": "Mohamed Zaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buzaki/mongodb/issues"
+  },
+  "homepage": "https://github.com/buzaki/mongodb#readme",
+  "dependencies": {
+    "mongodb": "^2.2.19"
+  }
+}
