@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/buzaki/mongodb#readme",
   "dependencies": {
-    "mongodb": "^2.2.19"
+    "mongodb": "^3.6.1"
   }
 }
